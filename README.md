@@ -88,7 +88,8 @@ Para Obtener y validar la Franquicia o Red Emisora puede utilizar la siguiente t
 | Visa Electron               | 4026, 417500, 4508, 4844, 4913, 4917                     | 16                          |
 
 
-Para validar una tarjeta utlice el algoritmo de [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm) [Implementación Luhn, gracias a unkdvt]([https://en.wikipedia.org/wiki/Luhn_algorithm](https://github.com/unkdvt/LuhnAlgorithmCSharp/tree/maste)) 
+Para validar una tarjeta utlice el algoritmo de [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm).
+[Implementación Luhn, gracias a unkdvt](https://github.com/unkdvt/LuhnAlgorithmCSharp/tree/maste) 
   
 Para realizar pruebas utilice el siguiente [Generador](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
