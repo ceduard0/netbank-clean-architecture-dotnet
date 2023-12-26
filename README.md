@@ -89,7 +89,7 @@ Para Obtener y validar la Franquicia o Red Emisora puede utilizar la siguiente t
 
 
 Para validar una tarjeta utlice el algoritmo de [Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm).
-[Implementación Luhn, gracias a unkdvt](https://github.com/unkdvt/LuhnAlgorithmCSharp/tree/master) 
+[Implementación Luhn, gracias a unkdvt](https://github.com/unkdvt/LuhnAlgorithmCSharp) 
   
 Para realizar pruebas utilice el siguiente [Generador](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
